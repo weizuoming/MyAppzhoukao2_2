@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyAppzhoukao2_2.iml" filepath="$PROJECT_DIR$/../MyAppzhoukao2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library2/library2.iml" filepath="$PROJECT_DIR$/../library2/library2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapprikao15/myapprikao15.iml" filepath="$PROJECT_DIR$/../myapprikao15/myapprikao15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapprikao16/myapprikao16.iml" filepath="$PROJECT_DIR$/../myapprikao16/myapprikao16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapprikao17/myapprikao17.iml" filepath="$PROJECT_DIR$/../myapprikao17/myapprikao17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapprikao20171017/myapprikao20171017.iml" filepath="$PROJECT_DIR$/../myapprikao20171017/myapprikao20171017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappyuekaolian2.iml" filepath="$PROJECT_DIR$/myappyuekaolian2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myappzhoukao3/myappzhoukao3.iml" filepath="$PROJECT_DIR$/../myappzhoukao3/myappzhoukao3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myappzuoye/myappzuoye.iml" filepath="$PROJECT_DIR$/../myappzuoye/myappzuoye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myweizuoming20171021/myweizuoming20171021.iml" filepath="$PROJECT_DIR$/../myweizuoming20171021/myweizuoming20171021.iml" />
+    </modules>
+  </component>
+</project>
